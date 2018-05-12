@@ -1,0 +1,61 @@
+_repo: Perolas-e-DiamantesContos-Infantis_30510
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Osório, Ana de Castro
+    aliases:
+    - Osorio, Ana de Castro
+    - Castro Osório, Ana de
+    - De Castro Osório, Ana
+    - Osório, Anna de Castro
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '32497'
+    url: http://www.gutenberg.org/2009/agents/32497
+    wikipedia: http://pt.wikipedia.org/wiki/Ana_de_Castro_Os%C3%B3rio
+  translator:
+    agent_name: Marques Junior, Henrique
+    alias: Junior, Henrique Marques
+    birthdate: 1881
+    gutenberg_agent_id: '34653'
+    url: http://www.gutenberg.org/2009/agents/34653
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+description: ''
+gutenberg_bookshelf:
+- PT Infantil e Juvenil
+- PT Contos
+gutenberg_issued: '2009-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30510'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Germany'
+- !lcsh 'Children''s stories, German -- Translations into Portuguese'
+tableOfContents: O violino maravilhoso -- João no auge da alegria -- Pelle d'urso
+  -- Aventuras de João-Pequenino -- Os tres cabellos d'oiro do Diabo -- O sapateiro
+  e os gnomos -- As tres pennas -- O violinista.
+title: 'Perolas e Diamantes: Contos Infantis'
+url: http://www.gutenberg.org/ebooks/30510
