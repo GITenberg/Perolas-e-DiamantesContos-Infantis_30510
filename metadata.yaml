@@ -39,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/971
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30510#Perolas-e-DiamantesContos-Infantis
 gutenberg_bookshelf:
 - PT Infantil e Juvenil
 - PT Contos
